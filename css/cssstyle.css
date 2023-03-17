@@ -1,0 +1,12 @@
+.rounded-120px{
+    border-radius: 120px;
+}
+.bg-gray{
+    background: #00000008;
+    
+}
+.ahref-logo{
+    font-size: 30px;
+    text-decoration:none;
+    font-family: 'italic';
+}
